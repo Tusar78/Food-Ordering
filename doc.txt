@@ -1,3 +1,0 @@
-mongo database 
-id: sdp300
-pass: sdp300
